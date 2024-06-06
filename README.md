@@ -1,1 +1,1 @@
-# DevDatSoft - autonomous AI develepment the doal is to have finished AI assistants for software developers.
+# DevDatSoft - autonomous AI develepment the goal is to have finished AI assistants for software developers.
